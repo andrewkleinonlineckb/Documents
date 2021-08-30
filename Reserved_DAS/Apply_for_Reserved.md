@@ -23,8 +23,7 @@ Otherwise, we will not merge your pull requests.
 | --------------- | ---------------- | ------------------------------------------------------------ |
 | TokenPay.bit    | tokenpay.network | Payment company in blockchain industry (unreleased yet)      |
 | visa.bit        | https://visa.com | Visa is the world's second-largest card payment organization. |
-
-
+| danccv.bit     | https://www.cryptocapitalventure.com/  |  Reserved for CCV by nervos .|
 ## First Round of Applications（closed）
 
 | The DAS account | Reserved for who | **Why it should be reserved**                                |
